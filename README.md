@@ -1,4 +1,4 @@
-# 3D-Interpolation
+# Rotation Interpolation
 Rotation interpolation supplementary videos, Wolfram Mathematica Code and Published Papers references
 
 # This work presents a novel method for interpolating between rotations and is based on generalization of a non-Abelian Kuramoto model using quaternions.
